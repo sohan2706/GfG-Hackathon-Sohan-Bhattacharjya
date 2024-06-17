@@ -3,7 +3,9 @@ This repository contains the code for the hackathon as well the submission csv f
 
 Task: Prediction of 2 labels i.e the likelihood of xyz_vaccine and seasonal_vaccine taken by the people using the given features
 
-Steps: 1. Combining the train features and train labels into one dataframe
+Steps: 
+       
+       1. Combining the train features and train labels into one dataframe
        
        2. Data Cleaning and Feature engineering: Involved dealing with the null values, ambiguous columns and categorical columns in the dataset
        
