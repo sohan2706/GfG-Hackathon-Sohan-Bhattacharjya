@@ -1,5 +1,5 @@
 # GfG-Hackathon-Sohan-Bhattacharjya
-This contain the code for the hackathon as well the submission csv file
+This repository contains the code for the hackathon as well the submission csv file
 
 Task: Prediction of 2 labels i.e whether xyz_vaccine and seasonal_vaccine was taken the people using the given features
 
