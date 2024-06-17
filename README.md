@@ -9,7 +9,7 @@ Steps:
        
        2. Data Cleaning and Feature engineering: Involved dealing with the null values, ambiguous columns and categorical columns in the dataset
        
-       3. Training the model on the training data. The model I use was a simple dense neural network classifier
+       3. Training the model on the training data. The model I used was a simple dense neural network classifier
        
        4. Checking average auc roc score using train_test_split from training data
        
