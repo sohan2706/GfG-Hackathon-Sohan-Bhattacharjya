@@ -1,7 +1,7 @@
 # GfG-Hackathon-Sohan-Bhattacharjya
 This repository contains the code for the hackathon as well the submission csv file
 
-Task: Prediction of 2 labels i.e whether xyz_vaccine and seasonal_vaccine was taken by the people using the given features
+Task: Prediction of 2 labels i.e the likelihood of xyz_vaccine and seasonal_vaccine taken by the people using the given features
 
 Steps: 1. Combining the train features and train labels into one dataframe
        
