@@ -15,6 +15,6 @@ Steps:
        
        5. Data Preprocessing for the test dataset 
        
-       6. Using the trained model to predict the output labels for the test dataset
+       6. Using the trained model to predict the output probabilities for the test dataset
        
        7. Creating a dataframe for the test outputs and converting it into a csv file
